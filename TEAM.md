@@ -9,6 +9,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
+| Anna | | |
 | Kyle| | |
 
 ## Team 8
