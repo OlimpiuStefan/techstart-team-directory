@@ -21,7 +21,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
 
 ## Team 14
 
