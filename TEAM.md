@@ -9,7 +9,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Ben | | |
 
 ## Team 8
 
