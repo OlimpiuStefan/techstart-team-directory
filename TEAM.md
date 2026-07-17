@@ -15,7 +15,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Natalio | Dev | None |
 
 ## Team 13
 
