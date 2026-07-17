@@ -44,7 +44,7 @@ BRUNNA MEIRELLES
 | Adriano Andrade| Developer | adriano.md |
 | Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
 
-## Team 14 
+## Team 14
 
 | Name | Role | Profile |
 |------|------|---------|
@@ -53,3 +53,14 @@ BRUNNA MEIRELLES
 | Makayla Wray | Teammate | [profile](profiles/makayla.md)|
 
 Hello From Chase!
+
+
+## Standup order
+
+### Team 2
+
+### Team 8
+
+### Team 13
+
+### Team 14
