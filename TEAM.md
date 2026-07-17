@@ -58,9 +58,9 @@ Hello From Chase!
 ## Standup order
 
 ### Team 2
-Ben
 anna
 Alex
+
 
 ### Team 8
 
@@ -70,3 +70,5 @@ Esmeralda Gonzalez Menera
 Adriano Andrade
 
 ### Team 14
+Noga
+Chase Blancher
