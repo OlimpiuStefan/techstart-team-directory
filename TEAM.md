@@ -27,6 +27,6 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Noga Kojokaro | Teammate | 16 |
 
 Hello From Chase!
