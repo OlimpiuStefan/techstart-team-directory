@@ -21,7 +21,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Adriano Andrade| Developer | adriano.md |
 
 ## Team 14
 
