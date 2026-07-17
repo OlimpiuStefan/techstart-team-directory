@@ -59,10 +59,12 @@ Hello From Chase!
 
 ### Team 2
 Olimpiu
+anna
 
 ### Team 8
 brunna 
 
 ### Team 13
+Adriano Andrade
 
 ### Team 14
