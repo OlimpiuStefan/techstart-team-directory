@@ -9,7 +9,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+|Anna Leung| | |
 
 ## Team 8
 
