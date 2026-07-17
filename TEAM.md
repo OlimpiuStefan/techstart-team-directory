@@ -15,6 +15,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
+BRUNNA MEIRELLES
 | _(add yourself here)_ | | |
 
 ## Team 13
