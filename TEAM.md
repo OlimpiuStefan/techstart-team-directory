@@ -15,13 +15,14 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Natalio | Dev | None |
 
 ## Team 13
 
 | Name | Role | Profile |
 |------|------|---------|
 | Adriano Andrade| Developer | adriano.md |
+| Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
 
 ## Team 14
 
