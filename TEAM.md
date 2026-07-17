@@ -60,6 +60,7 @@ Hello From Chase!
 ### Team 2
 Olimpiu
 anna
+Alex
 
 ### Team 8
 
