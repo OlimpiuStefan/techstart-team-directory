@@ -21,7 +21,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| _(faizan)_ | | |
 
 ## Team 14
 
