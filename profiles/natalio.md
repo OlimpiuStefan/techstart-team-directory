@@ -8,7 +8,6 @@
 
 My name is Natalio Fernandes Gomes. I love movies/shows and BJJ.
 
-
 ## What I want to learn today
 
 How to use git professionally.
