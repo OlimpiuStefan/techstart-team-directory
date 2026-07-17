@@ -16,6 +16,7 @@
 | Name      | Role | Profile |
 | --------- | ---- | ------- |
 | Esmeralda |      |         |
+| Natalio | Dev | None |
 
 ## Team 13
 
@@ -28,3 +29,18 @@
 | Name                  | Role | Profile |
 | --------------------- | ---- | ------- |
 | _(add yourself here)_ |      |         |
+
+
+## Team 13
+
+| Name | Role | Profile |
+|------|------|---------|
+| Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
+
+## Team 14
+
+| Name | Role | Profile |
+|------|------|---------|
+| _(add yourself here)_ | | |
+
+Hello From Chase!
