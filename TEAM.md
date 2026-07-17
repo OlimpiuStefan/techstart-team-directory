@@ -67,13 +67,11 @@ brunna
 Esmeralda Gonzalez Menera
 
 ### Team 13
-<<<<<<< HEAD
 Adriano Andrade
-=======
 Faizan Shamsi
->>>>>>> e8ff797 (standup)
 Harish Sundar
 
 ### Team 14
+- Makayla Wray
 Noga
 Chase Blancher
