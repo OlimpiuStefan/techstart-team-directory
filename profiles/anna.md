@@ -1,4 +1,4 @@
-# First Last
+# Anna Leung
 
 - **Role:** Backend Developer
 - **Languages:** Python, Java
@@ -10,4 +10,4 @@ A sentence or two. Anything you like.
 
 ## What I want to learn today
 
-e.g. to stop being scared of merge conflicts.
+everything about git
