@@ -7,24 +7,24 @@
 
 ## Team 2
 
-| Name | Role | Profile |
-|------|------|---------|
-| _(add yourself here)_ | | |
+| Name                  | Role | Profile |
+| --------------------- | ---- | ------- |
+| _(add yourself here)_ |      |         |
 
 ## Team 8
 
-| Name | Role | Profile |
-|------|------|---------|
-| _(add yourself here)_ | | |
+| Name      | Role | Profile |
+| --------- | ---- | ------- |
+| Esmeralda |      |         |
 
 ## Team 13
 
-| Name | Role | Profile |
-|------|------|---------|
-| _(add yourself here)_ | | |
+| Name                  | Role | Profile |
+| --------------------- | ---- | ------- |
+| _(add yourself here)_ |      |         |
 
 ## Team 14
 
-| Name | Role | Profile |
-|------|------|---------|
-| _(add yourself here)_ | | |
+| Name                  | Role | Profile |
+| --------------------- | ---- | ------- |
+| _(add yourself here)_ |      |         |
