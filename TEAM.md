@@ -9,7 +9,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| Alexander Troetsch | | |
+| Alexander Troetsch| | |
 
 ## Team 8
 
