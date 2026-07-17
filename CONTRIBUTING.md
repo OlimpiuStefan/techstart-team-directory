@@ -17,11 +17,11 @@ At work, this file is the first thing you read when you join a project.
 ## Branch names
 
 ```
-feature/<your-name>-<short-description>
+feature/TS-<NN>-<short-description>
 ```
 
-✅ `feature/maria-add-profile`
-✅ `feature/alice-readme-team-table`
+✅ `feature/TS-07-add-profile`
+✅ `feature/TS-01-team-table`
 ❌ `fix`, `test`, `maria`, `branch2`, `asdf`
 
 In three months, someone looks at the branch list. The name has to say what it was for.

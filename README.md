@@ -13,7 +13,7 @@ python3 src/app.py
 Read [CONTRIBUTING.md](CONTRIBUTING.md). Short version:
 
 1. Start from `develop`, up to date
-2. `git checkout -b feature/<your-name>-<description>`
+2. `git checkout -b feature/TS-<NN>-<description>`
 3. Make your change, commit, push
 4. Open a pull request into `develop`
 5. A colleague reviews it, you merge it

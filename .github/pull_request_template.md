@@ -16,7 +16,7 @@
 ## Checklist
 
 - [ ] I started from an up-to-date `develop` (`git checkout develop && git pull`)
-- [ ] My branch is named `feature/<your-name>-<description>`
+- [ ] My branch is named `feature/TS-<NN>-<description>`
 - [ ] This pull request targets `develop`, **not** `main`
 - [ ] I assigned my reviewer from the rotation table
 - [ ] No passwords, keys, or `.env` files in here
