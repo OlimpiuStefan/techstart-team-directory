@@ -11,23 +11,32 @@
 |------|------|---------|
 | Alexander Troetsch| | |
 | _(add yourself here)_ | | |
+| Anna | | |
+| Kyle| | |
 
 ## Team 8
 
 | Name | Role | Profile |
 |------|------|---------|
+BRUNNA MEIRELLES
+| _(add yourself here)_ | | |
 | Natalio | Dev | None |
 
 ## Team 13
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| _(faizan)_ | | |
+|Pragnya Kunamneni| | |
+| Adriano Andrade| Developer | adriano.md |
+| Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
 
-## Team 14
+## Team 14 
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Chase Blancher | Teammate | cgb243 |
+| Noga Kojokaro | Teammate | 16 |
+| Makayla Wray | Teammate | [profile](profiles/makayla.md)|
 
 Hello From Chase!
