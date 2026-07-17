@@ -1,0 +1,10 @@
+# Code Owners — the mechanism that makes `main` read-only on a personal repo.
+#
+# The `main` branch protection rule has "Require review from Code Owners" ticked.
+# This file says the trainer owns everything — so every PR into `main` needs
+# the trainer's approval. Students can approve each other all they like;
+# the merge button stays grey until the owner reviews.
+#
+# (On `develop` we do NOT require code owner review — students approve each other there.)
+
+* @OlimpiuStefan
