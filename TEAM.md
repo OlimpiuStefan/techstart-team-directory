@@ -7,12 +7,13 @@
 
 ## Team 2
 
-| Name                  | Role | Profile |
-| --------------------- | ---- | ------- |
-| Alexander Troetsch    |      |         |
-| _(add yourself here)_ |      |         |
-| Anna                  |      |         |
-| Kyle                  |      |         |
+| Name | Role | Profile |
+|------|------|---------|
+| Alexander Troetsch| | |
+| _(add yourself here)_ | | |
+| Anna | | |
+| Kyle| | |
+| Ben | | |
 
 ## Team 8
 
@@ -57,7 +58,7 @@ Hello From Chase!
 ## Standup order
 
 ### Team 2
-Olimpiu
+Ben
 anna
 Alex
 
