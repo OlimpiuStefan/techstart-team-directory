@@ -79,3 +79,8 @@ Pragnya Kunamneni
 - Makayla Wray
 Noga
 Chase Blancher
+| Name | Role | Profile |
+|------|------|---------|
+| _(add yourself here)_ | | |
+
+Hello From Chase!
