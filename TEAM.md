@@ -23,6 +23,7 @@ BRUNNA MEIRELLES
 
 | Name | Role | Profile |
 |------|------|---------|
+| _(faizan)_ | | |
 |Pragnya Kunamneni| | |
 | Adriano Andrade| Developer | adriano.md |
 | Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
