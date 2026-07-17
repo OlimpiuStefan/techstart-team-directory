@@ -58,7 +58,6 @@ Hello From Chase!
 
 ### Team 2
 anna
-Alex
 
 ### Team 8
 
