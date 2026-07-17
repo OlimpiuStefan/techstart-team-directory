@@ -7,17 +7,18 @@
 
 ## Team 2
 
-| Name | Role | Profile |
-|------|------|---------|
-| Alexander Troetsch| | |
-| _(add yourself here)_ | | |
-| Anna | | |
-| Kyle| | |
+| Name                  | Role | Profile |
+| --------------------- | ---- | ------- |
+| Alexander Troetsch    |      |         |
+| _(add yourself here)_ |      |         |
+| Anna                  |      |         |
+| Kyle                  |      |         |
 
 ## Team 8
 
 | Name | Role | Profile |
-|------|------|---------|
+| ---- | ---- | ------- |
+
 BRUNNA MEIRELLES
 | _(add yourself here)_ | | |
 | Natalio | Dev | None |
@@ -34,26 +35,24 @@ BRUNNA MEIRELLES
 | --------------------- | ---- | ------- |
 | _(add yourself here)_ |      |         |
 
-
 ## Team 13
 
-| Name | Role | Profile |
-|------|------|---------|
-| _(faizan)_ | | |
-|Pragnya Kunamneni| | |
-| Adriano Andrade| Developer | adriano.md |
-| Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
+| Name              | Role                 | Profile                       |
+| ----------------- | -------------------- | ----------------------------- |
+| _(faizan)_        |                      |                               |
+| Pragnya Kunamneni |                      |                               |
+| Adriano Andrade   | Developer            | adriano.md                    |
+| Harish Sundar     | Technology Associate | [profile](profiles/harish.md) |
 
 ## Team 14
 
-| Name | Role | Profile |
-|------|------|---------|
-| Chase Blancher | Teammate | cgb243 |
-| Noga Kojokaro | Teammate | 16 |
-| Makayla Wray | Teammate | [profile](profiles/makayla.md)|
+| Name           | Role     | Profile                        |
+| -------------- | -------- | ------------------------------ |
+| Chase Blancher | Teammate | cgb243                         |
+| Noga Kojokaro  | Teammate | 16                             |
+| Makayla Wray   | Teammate | [profile](profiles/makayla.md) |
 
 Hello From Chase!
-
 
 ## Standup order
 
@@ -63,6 +62,8 @@ anna
 Alex
 
 ### Team 8
+
+Esmeralda Gonzalez Menera
 
 ### Team 13
 Adriano Andrade
