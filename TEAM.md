@@ -27,6 +27,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Makayla Wray| Software Engineer | [profile](profiles/makayla.md)  |
 
 Hello From Chase!
+
