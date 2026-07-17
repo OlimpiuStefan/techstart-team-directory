@@ -11,4 +11,4 @@ My name is Natalio Fernandes Gomes. I love movies/shows and BJJ.
 
 ## What I want to learn today
 
-e.g. to stop being scared of merge conflicts.
+How to use git professionally.
