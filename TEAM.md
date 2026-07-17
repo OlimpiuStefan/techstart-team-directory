@@ -15,18 +15,20 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Natalio | Dev | None |
 
 ## Team 13
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Adriano Andrade| Developer | adriano.md |
+| Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
 
 ## Team 14 
 
 | Name | Role | Profile |
 |------|------|---------|
 | Chase Blancher | Teammate | cgb243 |
+| Noga Kojokaro | Teammate | 16 |
 
 Hello From Chase!
