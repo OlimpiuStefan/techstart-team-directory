@@ -72,6 +72,7 @@ Adriano Andrade
 =======
 Faizan Shamsi
 >>>>>>> e8ff797 (standup)
+Harish Sundar
 
 ### Team 14
 Noga
