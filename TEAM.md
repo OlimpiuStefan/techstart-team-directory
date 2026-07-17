@@ -71,7 +71,9 @@ Esmeralda Gonzalez Menera
 ### Team 13
 Adriano Andrade
 Faizan Shamsi
+Harish Sundar
 
 ### Team 14
+- Makayla Wray
 Noga
 Chase Blancher
