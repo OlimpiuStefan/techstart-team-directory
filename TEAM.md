@@ -58,6 +58,7 @@ Hello From Chase!
 ## Standup order
 
 ### Team 2
+Olimpiu
 
 ### Team 8
 
