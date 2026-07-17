@@ -24,10 +24,11 @@
 | Adriano Andrade| Developer | adriano.md |
 | Harish Sundar | Technology Associate | [profile](profiles/harish.md) |
 
-## Team 14
+## Team 14 
 
 | Name | Role | Profile |
 |------|------|---------|
+| Chase Blancher | Teammate | cgb243 |
 | Noga Kojokaro | Teammate | 16 |
 
 Hello From Chase!
