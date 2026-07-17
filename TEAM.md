@@ -9,9 +9,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| OLIMPIU | | |
-| _(add yourself here)_ | | |
-|Anna Leung| | |
+| initial | | |
 
 ## Team 8
 
