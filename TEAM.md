@@ -23,10 +23,10 @@
 |------|------|---------|
 | _(add yourself here)_ | | |
 
-## Team 14
+## Team 14 
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Chase Blancher | Teammate | cgb243 |
 
 Hello From Chase!
