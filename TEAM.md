@@ -32,5 +32,6 @@ BRUNNA MEIRELLES
 |------|------|---------|
 | Chase Blancher | Teammate | cgb243 |
 | Noga Kojokaro | Teammate | 16 |
+| Makayla Wray | Teammate | [profile](profiles/makayla.md)|
 
 Hello From Chase!
