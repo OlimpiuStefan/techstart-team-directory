@@ -10,12 +10,13 @@
 | Name | Role | Profile |
 |------|------|---------|
 | Alexander Troetsch| | |
+| _(add yourself here)_ | | |
 
 ## Team 8
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Natalio | Dev | None |
 
 ## Team 13
 
@@ -28,3 +29,5 @@
 | Name | Role | Profile |
 |------|------|---------|
 | _(add yourself here)_ | | |
+
+Hello From Chase!
