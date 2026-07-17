@@ -57,7 +57,6 @@ Hello From Chase!
 ## Standup order
 
 ### Team 2
-Olimpiu
 anna
 Alex
 
