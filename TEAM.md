@@ -9,22 +9,76 @@
 
 | Name | Role | Profile |
 |------|------|---------|
+| Alexander Troetsch| | |
 | _(add yourself here)_ | | |
+| Anna | | |
+| Kyle| | |
+| Ben | | |
 
 ## Team 8
 
 | Name | Role | Profile |
-|------|------|---------|
+| ---- | ---- | ------- |
+
+BRUNNA MEIRELLES
 | _(add yourself here)_ | | |
+| Natalio | Dev | None |
 
 ## Team 13
 
-| Name | Role | Profile |
-|------|------|---------|
-| _(add yourself here)_ | | |
+| Name                  | Role | Profile |
+| --------------------- | ---- | ------- |
+| _(add yourself here)_ |      |         |
 
 ## Team 14
 
+| Name                  | Role | Profile |
+| --------------------- | ---- | ------- |
+| _(add yourself here)_ |      |         |
+
+## Team 13
+
+| Name              | Role                 | Profile                       |
+| ----------------- | -------------------- | ----------------------------- |
+| _(faizan)_        |                      |                               |
+| Pragnya Kunamneni |                      |                               |
+| Adriano Andrade   | Developer            | adriano.md                    |
+| Harish Sundar     | Technology Associate | [profile](profiles/harish.md) |
+
+## Team 14
+
+| Name           | Role     | Profile                        |
+| -------------- | -------- | ------------------------------ |
+| Chase Blancher | Teammate | cgb243                         |
+| Noga Kojokaro  | Teammate | 16                             |
+| Makayla Wray   | Teammate | [profile](profiles/makayla.md) |
+
+Hello From Chase!
+
+## Standup order
+
+### Team 2
+anna
+Kyle
+Alex
+
+
+### Team 8
+brunna 
+
+Esmeralda Gonzalez Menera
+
+### Team 13
+
+Adriano Andrade
+Faizan Shamsi
+Harish Sundar
+Pragnya Kunamneni
+
+### Team 14
+- Makayla Wray
+Noga
+Chase Blancher
 | Name | Role | Profile |
 |------|------|---------|
 | _(add yourself here)_ | | |
