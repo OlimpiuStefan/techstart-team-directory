@@ -7,12 +7,13 @@
 
 ## Team 2
 
-| Name                  | Role | Profile |
-| --------------------- | ---- | ------- |
-| Alexander Troetsch    |      |         |
-| _(add yourself here)_ |      |         |
-| Anna                  |      |         |
-| Kyle                  |      |         |
+| Name | Role | Profile |
+|------|------|---------|
+| Alexander Troetsch| | |
+| _(add yourself here)_ | | |
+| Anna | | |
+| Kyle| | |
+| Ben | | |
 
 ## Team 8
 
@@ -59,6 +60,7 @@ Hello From Chase!
 ### Team 2
 anna
 Alex
+
 
 ### Team 8
 
