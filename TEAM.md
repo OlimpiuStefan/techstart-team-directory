@@ -10,6 +10,7 @@
 | Name | Role | Profile |
 |------|------|---------|
 | _(add yourself here)_ | | |
+Benjamin Martins
 
 ## Team 8
 
