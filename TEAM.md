@@ -65,7 +65,11 @@ Alex
 Esmeralda Gonzalez Menera
 
 ### Team 13
+<<<<<<< HEAD
 Adriano Andrade
+=======
+Faizan Shamsi
+>>>>>>> e8ff797 (standup)
 
 ### Team 14
 Noga
