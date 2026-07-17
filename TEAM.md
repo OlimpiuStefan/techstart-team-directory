@@ -15,6 +15,8 @@
 
 | Name | Role | Profile |
 |------|------|---------|
+BRUNNA MEIRELLES
+| _(add yourself here)_ | | |
 | Natalio | Dev | None |
 
 ## Team 13
