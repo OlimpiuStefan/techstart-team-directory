@@ -9,6 +9,8 @@
 
 | Name | Role | Profile |
 |------|------|---------|
+| Alexander Troetsch| | |
+| _(add yourself here)_ | | |
 | Anna | | |
 | Kyle| | |
 
