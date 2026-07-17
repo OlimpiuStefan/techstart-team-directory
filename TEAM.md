@@ -21,7 +21,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+|Pragnya Kunamneni| | |
 
 ## Team 14
 
