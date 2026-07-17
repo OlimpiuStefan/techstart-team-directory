@@ -9,7 +9,7 @@
 
 | Name | Role | Profile |
 |------|------|---------|
-| _(add yourself here)_ | | |
+| Kyle| | |
 
 ## Team 8
 
